@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681012034 source:c:\users\ah-elsawy\desktop\stack_array_ds\queue_ds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Platform_Type.h"
+	"Queue_DS.h"
+
+1680920587 c:\users\ah-elsawy\desktop\stack_array_ds\queue_ds\platform_type.h
+	<stdlib.h>
+
+1681012098 c:\users\ah-elsawy\desktop\stack_array_ds\queue_ds\queue_ds.h
+	"platform_type.h"
+
+1681011945 source:c:\users\ah-elsawy\desktop\stack_array_ds\queue_ds\queue_ds.c
+	"Queue_DS.h"
+
